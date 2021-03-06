@@ -38,7 +38,7 @@
 
 
 }
-#bg_g {
+#bg_hb {
 	position: absolute;
 	width: 1366px;
 	height: 1430px;
@@ -46,7 +46,7 @@
 	top: 93px;
 	overflow: visible;
 }
-#ppek_g {
+#ppek_hc {
 	position: absolute;
 	width: 1366px;
 	height: 768px;
@@ -54,7 +54,7 @@
 	top: 662px;
 	overflow: visible;
 }
-#mmek_g {
+#mmek_hd {
 	position: absolute;
 	width: 1361px;
 	height: 681px;
@@ -62,11 +62,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_7_g {
+#Rectangle_7_he {
 	opacity: 0.38;
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_7_g {
+.Rectangle_7_he {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -74,11 +74,11 @@
 	left: 0px;
 	top: 7px;
 }
-#Rectangle_8_ha {
+#Rectangle_8_hf {
 	opacity: 0.72;
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_8_ha {
+.Rectangle_8_hf {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -86,10 +86,10 @@
 	left: 0px;
 	top: 685px;
 }
-#Footer_hb {
+#Footer_hg {
 	fill: rgba(39,47,79,0.42);
 }
-.Footer_hb {
+.Footer_hg {
 	overflow: visible;
 	position: absolute;
 	width: 1366px;
@@ -98,11 +98,11 @@
 	top: 7px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Rectangle_11_hc {
+#Rectangle_11_hh {
 	opacity: 0.45;
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_11_hc {
+.Rectangle_11_hh {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -110,11 +110,11 @@
 	left: 0px;
 	top: 662px;
 }
-#Rectangle_12_hd {
+#Rectangle_12_hi {
 	opacity: 0.5;
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_12_hd {
+.Rectangle_12_hi {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -122,11 +122,11 @@
 	left: 0px;
 	top: 676px;
 }
-#Rectangle_13_he {
+#Rectangle_13_hj {
 	opacity: 0.5;
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_13_he {
+.Rectangle_13_hj {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -134,11 +134,11 @@
 	left: 0px;
 	top: 676px;
 }
-#Rectangle_14_hf {
+#Rectangle_14_hk {
 	opacity: 0.5;
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_14_hf {
+.Rectangle_14_hk {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -146,11 +146,11 @@
 	left: 0px;
 	top: 676px;
 }
-#Rectangle_15_hg {
+#Rectangle_15_hl {
 	opacity: 0.45;
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_15_hg {
+.Rectangle_15_hl {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -158,7 +158,7 @@
 	left: 0px;
 	top: 693px;
 }
-#Header_hh {
+#Header_hm {
 	position: absolute;
 	width: 1366px;
 	height: 100px;
@@ -166,10 +166,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1_hi {
+#Rectangle_1_hn {
 	fill: rgba(39,47,79,1);
 }
-.Rectangle_1_hi {
+.Rectangle_1_hn {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -177,19 +177,19 @@
 	left: 0px;
 	top: 0px;
 }
-#meow_boost_text-1_hj {
+#meow_boost_text-1_ho {
 	position: absolute;
-	width: 184px;
-	height: 80px;
-	left: 132px;
-	top: 10px;
+	width: 137.695px;
+	height: 60px;
+	left: 139px;
+	top: 20px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#Footer_hk {
+#Footer_hp {
 	position: absolute;
 	width: 1366px;
 	height: 201px;
@@ -197,10 +197,10 @@
 	top: 1434px;
 	overflow: visible;
 }
-#Footer_hl {
+#Footer_hq {
 	fill: rgba(39,47,79,1);
 }
-.Footer_hl {
+.Footer_hq {
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
@@ -208,7 +208,7 @@
 	left: 0px;
 	top: 0px;
 }
-#meow_boost_text-1_hm {
+#meow_boost_text-1_hr {
 	position: absolute;
 	width: 67px;
 	height: 29px;
@@ -216,7 +216,7 @@
 	top: 29px;
 	overflow: visible;
 }
-#ID2020-2021_-_MeowBoostgg_All__hn {
+#ID2020-2021_-_MeowBoostgg_All__hs {
 	left: 139px;
 	top: 67px;
 	position: absolute;
@@ -230,7 +230,7 @@
 	font-size: 10px;
 	color: rgba(249,192,96,1);
 }
-#LINE__ho {
+#LINE__ht {
 	position: absolute;
 	width: 476.5px;
 	height: 173px;
@@ -238,7 +238,7 @@
 	top: 1446px;
 	overflow: visible;
 }
-#Line_1_hp {
+#Line_1_hu {
 	fill: transparent;
 	stroke: rgba(156,173,241,0.6);
 	stroke-width: 1px;
@@ -247,7 +247,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_hp {
+.Line_1_hu {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -256,7 +256,7 @@
 	top: 2px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_2_hq {
+#Line_2_hv {
 	fill: transparent;
 	stroke: rgba(156,173,241,0.6);
 	stroke-width: 1px;
@@ -265,7 +265,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_2_hq {
+.Line_2_hv {
 	overflow: visible;
 	position: absolute;
 	width: 1.5px;
@@ -274,7 +274,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Footer_text_hr {
+#Footer_text_hw {
 	position: absolute;
 	width: 279px;
 	height: 16px;
@@ -282,7 +282,7 @@
 	top: 1473px;
 	overflow: visible;
 }
-#INFORMATION_hs {
+#INFORMATION_hx {
 	left: 181px;
 	top: 0px;
 	position: absolute;
@@ -296,7 +296,7 @@
 	font-size: 14px;
 	color: rgba(114,137,218,1);
 }
-#MENU_ht {
+#MENU_hy {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -310,7 +310,7 @@
 	font-size: 14px;
 	color: rgba(114,137,218,1);
 }
-#Contacts_hu {
+#Contacts_hz {
 	position: absolute;
 	width: 52px;
 	height: 15px;
@@ -318,10 +318,10 @@
 	top: 1508px;
 	overflow: visible;
 }
-#Rectangle_18_hv {
+#Rectangle_18_h {
 	fill: transparent;
 }
-.Rectangle_18_hv {
+.Rectangle_18_h {
 	position: absolute;
 	overflow: visible;
 	width: 52px;
@@ -329,7 +329,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Contacts_hw {
+#Contacts_h {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -343,7 +343,7 @@
 	font-size: 12px;
 	color: rgba(70,82,125,1);
 }
-#PP_hx {
+#PP_h {
 	position: absolute;
 	width: 81px;
 	height: 14px;
@@ -355,10 +355,10 @@
 	--web-action-target: PP.html;
 	cursor: pointer;
 }
-#Rectangle_19_hy {
+#Rectangle_19_h {
 	fill: transparent;
 }
-.Rectangle_19_hy {
+.Rectangle_19_h {
 	position: absolute;
 	overflow: visible;
 	width: 81px;
@@ -366,7 +366,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Privacy_Policy_hz {
+#Privacy_Policy_h {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -435,7 +435,7 @@
 	left: 0px;
 	top: 100px;
 }
-#Group_3_h {
+#Group_3_ia {
 	position: absolute;
 	width: 1085px;
 	height: 694px;
@@ -513,7 +513,7 @@
 	font-size: 16px;
 	color: rgba(255,255,255,1);
 }
-#png-transparent-computer-icons_ib {
+#png-transparent-computer-icons_ig {
 	opacity: 0.85;
 	position: absolute;
 	width: 176px;
@@ -526,7 +526,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#Discord_Server_ic {
+#Discord_Server_ih {
 	position: absolute;
 	width: 276px;
 	height: 99px;
@@ -534,10 +534,10 @@
 	top: 1479px;
 	overflow: visible;
 }
-#Rectangle_27_id {
+#Rectangle_27_ii {
 	fill: rgba(156,173,241,1);
 }
-.Rectangle_27_id {
+.Rectangle_27_ii {
 	position: absolute;
 	overflow: visible;
 	width: 276px;
@@ -545,7 +545,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Contact_Us_ie {
+#Contact_Us_ij {
 	left: 32px;
 	top: 25px;
 	position: absolute;
